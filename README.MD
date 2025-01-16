@@ -39,11 +39,10 @@ ChatGPT：
 
 Gamma：
 
-|  Ação  | prompt                                                                                
-         
-        |
-| :----: | -------------------------------------------------------------------------------------- |
-| conteúdo | Monte um documento em forma de Ebook, para estudantes de computação, com o tema sobre Kali Linux e todas suas funcionalidades no mundo da segurança da informação. Em cada cartão mostre uma funcionalidade e um exemplo de uso. No primeiro cartão conte uma breve história do Kali Linux de como ele foi criado, já no segundo em cartão conte como as ferramentas podem ser utéis para estudantes e profissionais de segurança da informação, já no terceiro cartão em diante explique as ferramentas e exemplos|                                                         |
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Monte um documento em forma de Ebook, para estudantes de computação, com o tema sobre Kali Linux e todas suas funcionalidades no mundo da segurança da informação. Em cada cartão mostre uma funcionalidade e um exemplo de uso. No primeiro cartão conte uma breve história do Kali Linux de como ele foi criado, já no segundo em cartão conte como as ferramentas podem ser utéis para estudantes e profissionais de segurança da informação, já no terceiro cartão em diante explique as ferramentas e exemplos|                                                         |
+
 
 ## ✨ Features
 
